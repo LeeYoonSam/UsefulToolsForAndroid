@@ -5,14 +5,12 @@
  * https://www.clickatell.com/
  
 # 친구초대
-## 유료
-### Branch
+## Branch / 유료
 모바일 측정 및 딥링킹 플랫폼
  * https://branch.io/ko/
 
 # 난독화
-## 유료
-### DexProtector
+## DexProtector / 유료
 The top-notch mobile application shielding solution
 Cutting-edge obfuscator and protector for mobile applications and libraries
 * https://dexprotector.com/
@@ -27,12 +25,10 @@ Cutting-edge obfuscator and protector for mobile applications and libraries
 
 
 # 디버깅
-## 유료
-### AppSpector
+## AppSpector / 유료
 Remote debugging platform for iOS and Android apps.
 * https://appspector.com
 * price: https://appspector.com/pricing
 
-## 무료
-### Curl Logging Interceptor
+## Curl Logging Interceptor / 무료
 * https://gist.github.com/terrakok/8e435c1473da4c21e1f4299a21e5e6e9
