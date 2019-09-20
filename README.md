@@ -1,12 +1,23 @@
 # UsefulToolsForAndroid
 앱 개발시 유용한 툴들을 기록하고자 한다.
-# 국가코드
+
+# UI 라이브러리
+### android-phone-field
+국가코드 UI 제공 / 전화번호 유효성 체크
+ * https://github.com/lamudi-gmbh/android-phone-field
+
+UI까지 제공해서 사용하기 편하다.
+제공되는 EditText를 커스텀하게 사용하려면 조금 손을 봐야한다.
+
+
+# 국가코드 확인 사이트
  * https://countrycode.org/
  
-# SMS 인증
+ 
+# SMS 인증 솔류션
  * https://www.clickatell.com/
  
-# 친구초대
+# 친구초대 솔루션
 ### Branch / 유료
 모바일 측정 및 딥링킹 플랫폼
  * https://branch.io/ko/
