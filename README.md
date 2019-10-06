@@ -2,6 +2,15 @@
 앱 개발시 유용한 툴들을 기록하고자 한다.
 
 # UI 라이브러리
+### Lottie
+애니메이션 구현
+ * https://github.com/airbnb/lottie-android
+ 
+### awesome font 
+아이콘 및 기본 이미지 제공
+ * https://fontawesome.com/
+ * 가이드 https://www.androidhive.info/2019/06/use-font-awesome-icons-android/
+
 ### android-phone-field
 국가코드 UI 제공 / 전화번호 유효성 체크
  * https://github.com/lamudi-gmbh/android-phone-field
