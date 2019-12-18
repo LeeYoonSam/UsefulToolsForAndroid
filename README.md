@@ -1,5 +1,11 @@
 # UsefulToolsForAndroid
-앱 개발시 유용한 툴들을 기록하고자 한다.
+앱 개발시 유용한 툴/자료들을 기록하고자 한다.
+
+
+# 샘플 데이터
+### JSONPlaceholder
+Fake Online REST API for Testing and Prototyping
+ * https://jsonplaceholder.typicode.com/
 
 # UI 라이브러리
 ### Lottie
