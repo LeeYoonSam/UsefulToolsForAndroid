@@ -1,11 +1,15 @@
 # UsefulToolsForAndroid
 앱 개발시 유용한 툴/자료들을 기록하고자 한다.
 
-
-# 샘플 데이터
-### JSONPlaceholder
-Fake Online REST API for Testing and Prototyping
- * https://jsonplaceholder.typicode.com/
+# API 테스트 툴
+### Postman / 무료 사용가능
+API 테스트
+ * https://www.getpostman.com/
+ 
+### Paw / 유료
+API 테스트
+ * https://paw.cloud/
+ 
 
 # UI 라이브러리
 ### Lottie
@@ -36,6 +40,12 @@ UI까지 제공해서 사용하기 편하다.
 ### Branch / 유료
 모바일 측정 및 딥링킹 플랫폼
  * https://branch.io/ko/
+ 
+# 샘플 데이터
+### JSONPlaceholder
+Fake Online REST API for Testing and Prototyping
+ * https://jsonplaceholder.typicode.com/
+
 
 # 난독화
 ### DexProtector / 유료
